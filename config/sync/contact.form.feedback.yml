@@ -1,0 +1,14 @@
+uuid: 885ead59-2a66-455d-b10b-2f7ff1e4969d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - christopher_kinch@dennis.co.uk
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
