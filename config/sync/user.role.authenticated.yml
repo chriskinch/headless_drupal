@@ -13,6 +13,7 @@ permissions:
   - 'access content'
   - 'access shortcuts'
   - 'access site-wide contact form'
+  - 'execute graphql requests'
   - 'post comments'
   - 'search content'
   - 'skip comment approval'
